@@ -9,7 +9,7 @@ This repository contains examples for the image processing fundamentals course.
 
 Image processing is the process of transforming an image into a digital form and performing certain operations to get some useful information from it. The image processing system usually treats all images as 2D signals when applying certain predetermined signal processing methods [1]. 
 
-This course assignments introduces methods for four key aspects of data science:
+These examples introduces methods for key aspects of image processing:
 
 * Image Acquisition
 * Image Enhancement
