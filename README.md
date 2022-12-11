@@ -21,3 +21,6 @@ These examples introduces methods for key aspects of image processing:
 
 [1] [What is image processing?](https://www.simplilearn.com/image-processing-article)
 
+[2] [Full course contents](https://www.cs.bilkent.edu.tr/~saksoy/courses/cs484-Fall2019/index.html)
+
+[3] [Additional resource](https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/TUDELFT/FIP2_3.pdf)
