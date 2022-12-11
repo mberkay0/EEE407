@@ -4,26 +4,20 @@
 This repository contains examples for the image processing fundamentals course. 
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/7/7d/Lenna_%28test_image%29.png" width="40%"></a>
+  <img src="https://upload.wikimedia.org/wikipedia/en/7/7d/Lenna_%28test_image%29.png" width="35%"></a>
 </div>
 
-Data mining is the process of extracting and discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems. Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal of extracting information (with intelligent methods) from a data set and transforming the information into a comprehensible structure for further use [1]. 
+Image processing is the process of transforming an image into a digital form and performing certain operations to get some useful information from it. The image processing system usually treats all images as 2D signals when applying certain predetermined signal processing methods [1]. 
 
 This course assignments introduces methods for four key aspects of data science:
 
-* Data Acquiring
-* Data Preprocessing
-* Exploratory Data Analysis
-* Data Modelling
-  * Classification
-  * Anomaly Detection
-  * Association Analysis
-  * Clustering and more...
+* Image Acquisition
+* Image Enhancement
+* Image Restoration
+* Morphological Processing
+* Segmentation
+* Recognition
 
 
-[1] [What is data mining?]()
-
-[2] [Full course content]()
-
-[3] [Course book]()
+[1] [What is image processing?](https://www.simplilearn.com/image-processing-article)
 
